@@ -12,6 +12,10 @@ Sends a random dog image!
 
 Sends a random fox image!
 
+### bird (birb)
+
+Sends a random birb image!
+
 ### panda
 
 Sends a random panda image!
