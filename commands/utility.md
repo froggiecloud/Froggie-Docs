@@ -36,3 +36,11 @@ Send an attachment as a spoiler (through a webhook)
 
 Translate any text into English, using Google Translate
 
+### lmgtfy (lmgt)
+
+Use let me google that for you to be passive agressive when people ask redundant questions.
+
+### say (broadcast)
+
+Make an announcement via the bot (moderator only)
+
