@@ -8,6 +8,10 @@ description: List of Froggie's utility commands
 
 View a user's avatar
 
+### pride (gayav)
+
+Give your profile photo a rainbow ring around it!
+
 ### help
 
 Get a DM with information on the bot
