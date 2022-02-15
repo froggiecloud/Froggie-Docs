@@ -8,86 +8,26 @@ description: List of Froggie's avatar-related commands
 
 Get a user's avatar
 
-### pride
-
-Put a pride flag ring around a user's avatar
-
-### bi
-
-Put a bisexual flag ring around a user's avatar
-
-### blue (bloo)
-
-Put a blue filter over a user's avatar
-
-### blur
-
-Blur a user's avatar
-
-### blurple
-
-Put a blurple filter over a user's avatar
-
-### blurple2 (newblurple, nbp)
-
-Put a new-blurple filter over a user's avatar
-
-### comrade
-
-Put the communist flag over a user's avatar
-
-### glass
-
-Put a glass effect on a user's avatar
-
-### green
-
-Put a green filter over a user's avatar
-
-### greyscale
-
-Turn a user's avatar greyscale
-
-### invert
-
-Invert the colors on a user's avatar
-
 ### jail
 
-Put a jail filter over a user's avatar
+Put a jail filter over your avatar
 
-### lesbian
+### pride (gay)
 
-Put a lesbian flag ring around a user's avatar
+Put a rainbow ring around your avatar
 
-### nonbinary (enby, nb)
+### bi (bisexual)
 
-Put a nonbinary flag ring around a user's avatar
+Put a bisexual flag ring around your avatar
 
 ### pan (pansexual)
 
-Put a pansexual flag ring around a user's avatar
+Put a pansexual flag ring around your avatar
 
-### passed (missionpassed)
+### enby (nb, nonbinary)
 
-Add a mission passed effect to a user's avatar
+Put a nonbinary flag ring around your avatar
 
-### pixelate
+### lesbian
 
-Pixelate a user's avatar
-
-### rainbow
-
-Put a rainbow effect over a user's avatar
-
-### red
-
-Put a red effect over a user's avatar
-
-### simpcard (simp)
-
-Put a user's avatar onto a simp card
-
-### trans (transgender)
-
-Put a trans flag ring around a user's avatar
+Put a lesbian flag ring around your avatar

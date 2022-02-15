@@ -8,9 +8,9 @@ description: List of Froggie's utility commands
 
 View a user's avatar
 
-### pride (gayav)
+### covid
 
-Give your profile photo a rainbow ring around it!
+View Covid-19 statistics for the world or a specific country
 
 ### help
 
